@@ -1,0 +1,15 @@
+.product-item{
+   flex: 0 0 24%;
+}
+
+.product-item img{
+    width: 100%;
+    object-fit: contain;
+}
+
+@media(max-width: 1144px){
+    .product-item{
+        flex: 0 0 30%;
+    }
+}
+

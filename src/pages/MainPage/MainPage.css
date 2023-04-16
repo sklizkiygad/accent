@@ -1,0 +1,14 @@
+.filter-products{
+    display: flex;
+    gap: 15px;
+    padding-bottom: 50px;
+}
+
+@media(max-width:834px){
+
+    .filter-products{
+        flex-direction: column;
+        padding: 10px;
+        align-items: center;
+    }
+}

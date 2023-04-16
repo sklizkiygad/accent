@@ -1,0 +1,65 @@
+.filters-side{
+    max-width: 350px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 15px;
+
+}
+
+.filters-side__filter{
+    width: 100%;
+    position: relative;
+    margin-top: 10px;
+}
+
+.filters-side__search{
+    color: #00b2a4;
+    padding: 5px;
+    border: 1px solid grey;
+    font-size: 18px;
+    outline: none;
+    margin-top: 10px;
+}
+
+.filters-side h4{
+    color:#00b2a4;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.filters-side h5{
+    color: #006f68;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+
+.priceslider-holder{
+    margin-top: 10px;
+    padding: 0 20px;
+}
+
+.price-count{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.price-count input::-webkit-outer-spin-button,
+.price-count input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.price-count input{
+   padding: 5px;
+    outline: none;
+}
+
+.brands{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
