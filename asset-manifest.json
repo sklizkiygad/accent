@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/accent/static/css/main.1e816308.css",
-    "main.js": "/accent/static/js/main.27825b10.js",
+    "main.css": "/accent/static/css/main.da39795b.css",
+    "main.js": "/accent/static/js/main.7286341b.js",
     "static/media/3.png": "/accent/static/media/3.51ff71a3081adc5a6bd6.png",
     "static/media/1.png": "/accent/static/media/1.ef10b7afe93bb656ad88.png",
     "static/media/2.png": "/accent/static/media/2.ccb92cbd978cd8709e88.png",
@@ -12,11 +12,11 @@
     "static/media/4.png": "/accent/static/media/4.3c1654a53d29ea875877.png",
     "static/media/9.png": "/accent/static/media/9.bfda11844466f4586971.png",
     "index.html": "/accent/index.html",
-    "main.1e816308.css.map": "/accent/static/css/main.1e816308.css.map",
-    "main.27825b10.js.map": "/accent/static/js/main.27825b10.js.map"
+    "main.da39795b.css.map": "/accent/static/css/main.da39795b.css.map",
+    "main.7286341b.js.map": "/accent/static/js/main.7286341b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e816308.css",
-    "static/js/main.27825b10.js"
+    "static/css/main.da39795b.css",
+    "static/js/main.7286341b.js"
   ]
 }
