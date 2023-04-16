@@ -21,9 +21,8 @@ const ProductItem = ({productData}) => {
     }
 
     const checkItemInStorage=()=>{
-        if(cartDataInStorage.includes(productData)){
+        if(cartDataInStorage.find(item=>item.id == productData.id)){
             setIsProductInStorage(true)
-
         }
         else{
             setIsProductInStorage(false)
