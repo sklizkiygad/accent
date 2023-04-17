@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/accent/static/css/main.da39795b.css",
+    "main.css": "/accent/static/css/main.9ab54dfd.css",
     "main.js": "/accent/static/js/main.976b4e0a.js",
     "static/media/3.png": "/accent/static/media/3.51ff71a3081adc5a6bd6.png",
     "static/media/1.png": "/accent/static/media/1.ef10b7afe93bb656ad88.png",
@@ -12,11 +12,11 @@
     "static/media/4.png": "/accent/static/media/4.3c1654a53d29ea875877.png",
     "static/media/9.png": "/accent/static/media/9.bfda11844466f4586971.png",
     "index.html": "/accent/index.html",
-    "main.da39795b.css.map": "/accent/static/css/main.da39795b.css.map",
+    "main.9ab54dfd.css.map": "/accent/static/css/main.9ab54dfd.css.map",
     "main.976b4e0a.js.map": "/accent/static/js/main.976b4e0a.js.map"
   },
   "entrypoints": [
-    "static/css/main.da39795b.css",
+    "static/css/main.9ab54dfd.css",
     "static/js/main.976b4e0a.js"
   ]
 }
